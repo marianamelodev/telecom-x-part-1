@@ -103,7 +103,7 @@ Ao final da análise, foi possível identificar padrões importantes no comporta
 ## 📁 Como Executar
 
 1. Clone este repositório
-2. Abra o notebook `telecom_churn_analysis.ipynb` no Jupyter ou Google Colab
+2. Abra o notebook `Telecom X - Parte I.ipynb` no Jupyter ou Google Colab
 3. Execute as células sequencialmente
 
 ---
